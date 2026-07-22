@@ -1,0 +1,35 @@
+-- data for order table
+
+select * from orders;
+
+INSERT INTO orders VALUES
+(101,1,'2024-01-05',65000.00,'Laptop','Electronics','Delivered'),
+(102,2,'2024-01-08',1500.00,'School Bag','Accessories','Delivered'),
+(103,3,'2024-01-10',25000.00,'Smartphone','Electronics','Pending'),
+(104,4,'2024-01-12',8500.00,'Office Chair','Furniture','Delivered'),
+(105,5,'2024-01-15',3200.00,'Sports Shoes','Fashion','Cancelled'),
+(106,6,'2024-01-18',1800.00,'Bluetooth Speaker','Electronics','Delivered'),
+(107,7,'2024-01-20',2200.00,'Headphones','Electronics','Delivered'),
+(108,8,'2024-01-22',12000.00,'Dining Table','Furniture','Pending'),
+(109,9,'2024-01-25',900.00,'Notebook Pack','Stationery','Delivered'),
+(110,10,'2024-01-28',72000.00,'Laptop','Electronics','Delivered'),
+(111,11,'2024-02-01',18000.00,'Monitor','Electronics','Delivered'),
+(112,12,'2024-02-03',2500.00,'Keyboard','Electronics','Pending'),
+(113,13,'2024-02-05',1200.00,'Wireless Mouse','Electronics','Delivered'),
+(114,14,'2024-02-07',9500.00,'Office Desk','Furniture','Delivered'),
+(115,15,'2024-02-10',4200.00,'Smart Watch','Accessories','Cancelled'),
+(116,16,'2024-02-12',35000.00,'Tablet','Electronics','Delivered'),
+(117,17,'2024-02-14',650.00,'Diary','Stationery','Delivered'),
+(118,18,'2024-02-16',8500.00,'Printer','Electronics','Pending'),
+(119,19,'2024-02-18',14500.00,'Study Table','Furniture','Delivered'),
+(120,20,'2024-02-20',2500.00,'Travel Bag','Accessories','Delivered'),
+(121,21,'2024-02-22',2800.00,'Sneakers','Fashion','Delivered'),
+(122,22,'2024-02-24',1100.00,'Calculator','Stationery','Delivered'),
+(123,23,'2024-02-26',42000.00,'LED TV','Electronics','Pending'),
+(124,24,'2024-02-28',1800.00,'Table Lamp','Furniture','Delivered'),
+(125,25,'2024-03-01',850.00,'Water Bottle','Accessories','Delivered'),
+(126,26,'2024-03-03',28000.00,'Tablet','Electronics','Delivered'),
+(127,27,'2024-03-05',4500.00,'Jacket','Fashion','Cancelled'),
+(128,28,'2024-03-07',15000.00,'Bookshelf','Furniture','Delivered'),
+(129,29,'2024-03-09',950.00,'Notebook Pack','Stationery','Delivered'),
+(130,30,'2024-03-10',85000.00,'Gaming Laptop','Electronics','Pending');

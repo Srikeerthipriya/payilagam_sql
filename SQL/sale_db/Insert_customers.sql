@@ -1,0 +1,35 @@
+-- data for customer table
+
+INSERT INTO customers VALUES
+(1,'Arjun Kumar','arjun@gmail.com','Chennai','Tamil Nadu'),
+(2,'Priya Sharma','priya@gmail.com','Bengaluru','Karnataka'),
+(3,'Rahul Verma','rahul@gmail.com','Hyderabad','Telangana'),
+(4,'Sneha Reddy','sneha@gmail.com','Mumbai','Maharashtra'),
+(5,'Vikram Singh','vikram@gmail.com','Delhi','Delhi'),
+(6,'Ananya Iyer','ananya@gmail.com','Coimbatore','Tamil Nadu'),
+(7,'Rohit Mehta','rohit@gmail.com','Ahmedabad','Gujarat'),
+(8,'Divya Nair','divya@gmail.com','Kochi','Kerala'),
+(9,'Karthik Raj','karthik@gmail.com','Madurai','Tamil Nadu'),
+(10,'Pooja Patel','pooja@gmail.com','Surat','Gujarat'),
+(11,'Amit Mishra','amit@gmail.com','Lucknow','Uttar Pradesh'),
+(12,'Neha Gupta','neha@gmail.com','Jaipur','Rajasthan'),
+(13,'Suresh Babu','suresh@gmail.com','Vijayawada','Andhra Pradesh'),
+(14,'Meera Joshi','meera@gmail.com','Pune','Maharashtra'),
+(15,'Deepak Yadav','deepak@gmail.com','Patna','Bihar'),
+(16,'Lakshmi Devi','lakshmi@gmail.com','Salem','Tamil Nadu'),
+(17,'Manoj Kumar','manoj@gmail.com','Mysuru','Karnataka'),
+(18,'Keerthi Rao','keerthi@gmail.com','Mangaluru','Karnataka'),
+(19,'Harish Kumar','harish@gmail.com','Trichy','Tamil Nadu'),
+(20,'Nisha Kapoor','nisha@gmail.com','Chandigarh','Punjab'),
+(21,'Ajay Sharma','ajay@gmail.com','Noida','Uttar Pradesh'),
+(22,'Bhavana Rao','bhavana@gmail.com','Visakhapatnam','Andhra Pradesh'),
+(23,'Gokul Krishna','gokul@gmail.com','Thrissur','Kerala'),
+(24,'Swathi R','swathi@gmail.com','Erode','Tamil Nadu'),
+(25,'Ramesh Kumar','ramesh@gmail.com','Nagpur','Maharashtra'),
+(26,'Aishwarya S','aishu@gmail.com','Thanjavur','Tamil Nadu'),
+(27,'Praveen Das','praveen@gmail.com','Bhubaneswar','Odisha'),
+(28,'Shalini Menon','shalini@gmail.com','Kozhikode','Kerala'),
+(29,'Ganesh V','ganesh@gmail.com','Tirunelveli','Tamil Nadu'),
+(30,'Kavya Rani','kavya@gmail.com','Warangal','Telangana');
+
+select * from customers;
